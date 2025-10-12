@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learning_Project\\NaturalSort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6664BB1-A9AB-4FE0-B077-93DE9DB83937}|NaturalSort.Test\\NaturalSort.Test.csproj|d:\\learning_project\\naturalsort\\naturalsort.test\\naturalsortertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6664BB1-A9AB-4FE0-B077-93DE9DB83937}|NaturalSort.Test\\NaturalSort.Test.csproj|solutionrelative:naturalsort.test\\naturalsortertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F7BEB6-C6BD-4B17-9070-926C61E6B2B8}|NaturalSort\\NaturalSort.csproj|d:\\learning_project\\naturalsort\\naturalsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F7BEB6-C6BD-4B17-9070-926C61E6B2B8}|NaturalSort\\NaturalSort.csproj|solutionrelative:naturalsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6664BB1-A9AB-4FE0-B077-93DE9DB83937}|NaturalSort.Test\\NaturalSort.Test.csproj|d:\\learning_project\\naturalsort\\naturalsort.test\\getchunktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6664BB1-A9AB-4FE0-B077-93DE9DB83937}|NaturalSort.Test\\NaturalSort.Test.csproj|solutionrelative:naturalsort.test\\getchunktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 845,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetChunkTests.cs",
+              "DocumentMoniker": "D:\\Learning_Project\\NaturalSort\\NaturalSort.Test\\GetChunkTests.cs",
+              "RelativeDocumentMoniker": "NaturalSort.Test\\GetChunkTests.cs",
+              "ToolTip": "D:\\Learning_Project\\NaturalSort\\NaturalSort.Test\\GetChunkTests.cs",
+              "RelativeToolTip": "NaturalSort.Test\\GetChunkTests.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T01:05:59.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NaturalSorterTest.cs",
+              "DocumentMoniker": "D:\\Learning_Project\\NaturalSort\\NaturalSort.Test\\NaturalSorterTest.cs",
+              "RelativeDocumentMoniker": "NaturalSort.Test\\NaturalSorterTest.cs",
+              "ToolTip": "D:\\Learning_Project\\NaturalSort\\NaturalSort.Test\\NaturalSorterTest.cs",
+              "RelativeToolTip": "NaturalSort.Test\\NaturalSorterTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T19:18:05.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning_Project\\NaturalSort\\NaturalSort\\Program.cs",
+              "RelativeDocumentMoniker": "NaturalSort\\Program.cs",
+              "ToolTip": "D:\\Learning_Project\\NaturalSort\\NaturalSort\\Program.cs",
+              "RelativeToolTip": "NaturalSort\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T19:17:19.939Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

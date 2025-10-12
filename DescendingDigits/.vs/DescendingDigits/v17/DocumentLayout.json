@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learning_Project\\DescendingDigits\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5EB5C46-030E-4508-A552-83758DD371E1}|DescendingDigits.Test\\DescendingDigits.Test.csproj|d:\\learning_project\\descendingdigits\\descendingdigits.test\\descendingordertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5EB5C46-030E-4508-A552-83758DD371E1}|DescendingDigits.Test\\DescendingDigits.Test.csproj|solutionrelative:descendingdigits.test\\descendingordertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44CCDF9D-90BF-4885-AF9D-A44B7B3EF99A}|DescendingDigits\\DescendingDigits.csproj|d:\\learning_project\\descendingdigits\\descendingdigits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44CCDF9D-90BF-4885-AF9D-A44B7B3EF99A}|DescendingDigits\\DescendingDigits.csproj|solutionrelative:descendingdigits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 845,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DescendingOrderTests.cs",
+              "DocumentMoniker": "D:\\Learning_Project\\DescendingDigits\\DescendingDigits.Test\\DescendingOrderTests.cs",
+              "RelativeDocumentMoniker": "DescendingDigits.Test\\DescendingOrderTests.cs",
+              "ToolTip": "D:\\Learning_Project\\DescendingDigits\\DescendingDigits.Test\\DescendingOrderTests.cs",
+              "RelativeToolTip": "DescendingDigits.Test\\DescendingOrderTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T12:14:44.292Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning_Project\\DescendingDigits\\DescendingDigits\\Program.cs",
+              "RelativeDocumentMoniker": "DescendingDigits\\Program.cs",
+              "ToolTip": "D:\\Learning_Project\\DescendingDigits\\DescendingDigits\\Program.cs",
+              "RelativeToolTip": "DescendingDigits\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T12:04:24.098Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
